@@ -11,13 +11,19 @@ It is a requirement.
 
 ### Clone the repo, and follow these instructions:
 
+Since node_modules is not present, you must use the command in the main folder:
+
+````
+npm install
+````
+
 #### 1 - Change some initial configs:
 
 &nbsp;&nbsp;In ./database.json, change the "changethis" field to your PostgreSQL master password.
 
 &nbsp;&nbsp;You can also change other settings should they differ, though I recommend this for advanced users only.
 
-#### 2 - Open the main folder of the repository in command-line and type:
+#### 2 - Open the main folder of the repository in command-line and perform:
 
 ````
 node .\configs\init.cjs

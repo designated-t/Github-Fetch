@@ -1,9 +1,9 @@
 {
-    "dev": {
-        "driver": "pg",
-        "user": "postgres",
-        "password": "changethis",  
-        "host": "localhost",
-        "database": "gitfetch"
-    }
+  "dev": {
+    "driver": "pg",
+    "user": "postgres",
+    "password": "23101999",
+    "host": "localhost",
+    "database": "gitfetch"
+  }
 }
