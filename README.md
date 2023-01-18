@@ -2,6 +2,10 @@
 
 Git Fetch is a command-line application that allows fetching of a given user from Github, and storing it in a PostgreSQL database, with the added bonus of being able to query the database.
 
+Used for this app:
+&nbsp;Node v18.13.0
+&nbsp;npm v8.19.3
+
 ## Installation
 
 If you do not have Postgres, Install it here: [https://www.postgresql.org/download/](https://www.postgresql.org/download/)
