@@ -1,4 +1,4 @@
-import * as readline from 'node:readline/promises';
+import * as readline from 'readline/promises';
 
 const rl = readline.createInterface(process.stdin, process.stdout);
 const confirmQuestion = " Enter 'y' to confirm, any key to decline.\n"
